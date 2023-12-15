@@ -69,6 +69,14 @@ def GUI():
 </head>
 
 <body class="bg-gray-800 text-white">
+<div class="bg-cover bg-center  h-auto text-white py-24 px-10 object-fill" style="background-image: url(https://media.discordapp.net/attachments/1176169547393417327/1185046653963604038/image_4.jpg?ex=658e2fb3&is=657bbab3&hm=1d512d527bc07f4abf5b6e05591c6aead3e30462fa6d9bb75cf356dad88d5028&=&format=webp&width=1280&height=640)">
+       <div class="md:w-1/2">
+        <p class="font-bold text-sm uppercase">Welome to</p>
+        <p class="text-3xl font-bold">To transport model calculator</p>
+        <p class="text-2xl mb-10 leading-none">to use it please enter the grid matrix, supply and demand. the grid supports 4x4 matrix!</p>
+        <a href="https://github.com/Riveong/transport" class="bg-purple-800 py-4 px-8 text-white font-bold uppercase text-xs rounded hover:bg-gray-200 hover:text-gray-800">Source Code</a>
+        </div>  
+    </div>
 
     <div class="container mx-auto p-4">
 
