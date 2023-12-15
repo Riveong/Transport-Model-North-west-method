@@ -73,7 +73,7 @@ def GUI():
        <div class="md:w-1/2">
         <p class="font-bold text-sm uppercase">Welome to</p>
         <p class="text-3xl font-bold">To transport model calculator</p>
-        <p class="text-2xl mb-10 leading-none">to use it please enter the grid matrix, supply and demand. the grid supports 4x4 matrix!</p>
+        <p class="text-2xl mb-10 leading-none">to use it please enter the grid matrix, supply and demand. the grid supports 3x4 matrix!</p>
         <a href="https://github.com/Riveong/transport" class="bg-purple-800 py-4 px-8 text-white font-bold uppercase text-xs rounded hover:bg-gray-200 hover:text-gray-800">Source Code</a>
         </div>  
     </div>
@@ -81,7 +81,7 @@ def GUI():
     <div class="container mx-auto p-4">
 
         <!-- Title -->
-        <h1 class="text-4xl mb-8">FastAPI Calculator</h1>
+        <h1 class="text-4xl mb-8">Transport Calculator</h1>
 
         <!-- Calculator Form -->
         <form id="calcForm" class="mb-8">
